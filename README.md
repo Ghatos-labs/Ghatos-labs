@@ -1,7 +1,6 @@
 <h1 align="center">Marwan Akkari<br><sup>💻 Fullstack web developer 💻</sup></h1>
 
 <p align="center">🎓 Associate degree in web design and development 🎓</p>
-<p align="center">🔍 Currently looking for an apprenticeship 🔍</p>
 
 <h3 align="center">To contact me</h3>
 <p align="center">
